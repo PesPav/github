@@ -5,5 +5,5 @@ int main()
 int a,b;
 printf("vvedi chisla\n");
 scanf("%d\n%d",&a,&b);
-printf("Summaaaaaa=%d\n",x+y);
+printf("RAZNOST=%d\n",x-y);
 }
